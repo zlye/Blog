@@ -12,6 +12,3 @@ During my Ph.D. I worked with a broad range of data types to uncover evolutionar
 
 Today I want to transfer my computational skills from unraveling the mysteries of evolution to solving the problems that affect people and businesses from day to day.
 
-### Contact me
-
-[email@domain.com](mailto:zoenrlye@gmail.com)
