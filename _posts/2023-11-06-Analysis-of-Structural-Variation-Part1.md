@@ -1,7 +1,7 @@
 ---
-title: 'Analysis of genetic structural variation Part 1'
-header:
-  teaser:
+layout: post
+title: 'Analysis of Genetic Structural Variation Part 1'
+date: 2023-11-06
 ---
 
  {% include figure image_path="/images/hiroHI.jpeg" caption="Utagawa Hiroshige 1855 Japan, National Museum of Asian art" %}
