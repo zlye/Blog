@@ -4,7 +4,7 @@ title: 'Analysis of Genetic Structural Variation Part 1'
 date: 2023-11-06
 ---
 
-![Utagawa Hiroshige 1855 Japan, National Museum of Asian art] (/images/hiroHI.jpeg)
+![Utagawa Hiroshige 1855 Japan, National Museum of Asian art] ({{site.baseurl}}/_images/hiroHI.jpeg)
 
 One of the main topics of my Ph.D. research was the discovery and analysis of structural variation in rice. Structural variation a unique and interesting type of genetic variation. If we use a book as a metaphor for the genome, that is, the complete genetic code of an individual, individuals might vary by a letter change, or an insertion of a letter or two. Structural variants are much larger mutations, they might include a deletion or duplication of a pharagraph, or a rearrangement of many pages. Given that they affect more sequence structural variants can be extremely bad for an individual and are rare in the population in humans structural variants are associated with many severe and complex diseases.
 
@@ -13,11 +13,11 @@ _You can read about more examples, and learn about deeper in the review I publis
 
 In my research I wanted to study more than the known anectodal examples. Instead I wanted to study structural variation as a broad phenomenon - **what's the big picture?**
 
-These are two key questions I answered through my research:
-*1. Where are structural variants in the genome?*
+These are two key questions I answered through my research:  
+*1. Where are structural variants in the genome?*  
 *2. How do structural variants affect gene expression?*
 
-### Part I. Where are the structural variants in the genome?
+### Part I. How are structural distributed across the genome?
 
 ![Geographic origin of study samples] (/images/samplemap4a_edit.pdf)
 
