@@ -12,7 +12,7 @@ date: 2023-11-06
 One of the main topics of my Ph.D. research was the discovery and analysis of structural variation in rice. Structural variation a unique and interesting type of genetic variation. If we use a book as a metaphor for the genome, that is, the complete genetic code of an individual, individuals might vary by a letter change, or an insertion of a letter or two. Structural variants are much larger mutations, they might include a deletion or duplication of a pharagraph, or a rearrangement of many pages. Given that they affect more sequence structural variants can be extremely bad for an individual and are rare in the population in humans structural variants are associated with many severe and complex diseases.
 
 Over the past 10 years there has been an explosion of interest in structural variation. Many structural variants have been discovered that are responsible for important traits in domesticated plants and animals, for example gene duplications cause differences in coat color in sheep, cattle and pigs. In rice, a duplication is associated with increased seed size. These are just two individual examples of how structural variants influence traits. 
-You can read about more examples, and learn about deeper in the review I published [here](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(19)30015-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138519300159%3Fshowall%3Dtrue#secsect0040)
+You can read about more examples, and learn about deeper in the review I published [here]<(https://www.cell.com/trends/plant-science/fulltext/S1360-1385(19)30015-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138519300159%3Fshowall%3Dtrue#secsect0040)>
 
 In my research I wanted to study more than the known anectodal examples. Instead I wanted to study structural variation as a broad phenomenon - **what's the big picture?**
 
@@ -56,4 +56,4 @@ To test this hypothesis we ran a simulation to create an enrichment score. The e
 
 The enrichement analysis shows SVs are more likely to occur in intergenic regions and depleted from introns and exons. Interstingly they're more less likely to occur in intronic regions than coding regions. Again this makes sense - coding regions are more "important" to creating the proteins that intronic regions, althought the intronic regions still play a role gene regulation and occurr adjacent to the coding regions.
 
-*check out enrichment analysis code [here] (https://github.com/zlye/SV_feature_enrichment/)*
+*check out enrichment analysis code [here] <http://github.com/zlye/SV_feature_enrichment/>*
