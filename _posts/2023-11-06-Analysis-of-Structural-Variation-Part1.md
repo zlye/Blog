@@ -19,7 +19,7 @@ These are two key questions I answered through my research:
 
 Part I. How are structural distributed across the genome?
 
-[Geographic origin of study samples] ({{site.baseurl}}/assets/images/samplemap4a_edit.pdf)
+[Geographic origin of study samples] ({{site.baseurl}}/assets/images/samplemap4a_edit.png)
 
 I discovered structural variants in a population of rice landraces. Landraces are traditional varieties of rice, and have a high level of genetic diversity. My samples came from all around the world, their genomes were sequenced by several of my colleagues.All together I started with 4 TB of raw genome sequence data! I developed a customized bioinformatics pipeline to discover structural variants using a high performance computing cluster. You can checkout at the pipeline on git zlye/RVE - it took over a year to test and develop!
 
