@@ -1,2 +1,5 @@
 title: Zoe Lye
 theme: jekyll-theme-minimal
+
+kramdown:
+  parse_block_html: true
