@@ -4,9 +4,9 @@ title: 'Analysis of Genetic Structural Variation Part 1'
 date: 2023-11-06
 ---
 
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_blog.jpg "an image title")
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_blog.jpg)
 
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI.jpeg "an image title")
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI.jpeg)
 
 ![an image alt text]({{ site.baseurl }}/assets/images/hiroHI_edit.jpeg "an image title")
 
