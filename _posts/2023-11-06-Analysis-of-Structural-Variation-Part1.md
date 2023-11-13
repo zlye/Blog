@@ -35,13 +35,17 @@ Part I. How are structural distributed across the genome?
 
 ![Geographic origin of study samples] ({{ site.baseurl }}/assets/images/map.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
 
-I discovered structural variants in a population of rice landraces. Landraces are traditional varieties of rice, and have a high level of genetic diversity. My samples came from all around the world, their genomes were sequenced by several of my colleagues. All together I started with 4 TB of raw genome sequence data! I developed a customized bioinformatics pipeline to discover structural variants using a high performance computing cluster. You can checkout at the pipeline on git zlye/RVE - it took over a year to test and develop!
+I discovered structural variants in a population of rice landraces. Landraces are traditional varieties of rice, and have a high level of genetic diversity. My samples came from all around the world, their genomes were sequenced by several of my colleagues. All together I started with 4 TB of raw genome sequence data! I developed a customized bioinformatics pipeline to discover structural variants using a high performance computing cluster.  
+
+*You can checkout at the pipeline on
+[git] (http://github.com/zlye/RVE/)
+- it took over a year to test and develop!
 
 Using the pipeline I discovered over 50,000 structural variants within a population of 214 rice landraces. The pipeline is complex - but I learned a lot from these 50,000 structural variants!
 
 Let’s skip to the interesting parts - the results and what they show about rice genomics!
 
-![Distibution of Structural variant sizes]({{site.baseurl}} /assets/images/Size_dist.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Distibution of Structural variant sizes]({{site.baseurl}}/assets/images/Size_dist.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Most of the variants discovered are deletions, and the majority of structural variants are small.
 
@@ -53,7 +57,7 @@ The genome can be divided into many different classes, in this analysis I divide
 
 This graph shows the proportion of genomic _functional classes_ that each type of structural variant overlapps with. 
 
-![Proportion of Structural variants overlappinh each genomic class]({{site.baseurl}}/assets/images/Fractions_edit2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Proportion of Structural variants overlappinh each genomic class]({{site.baseurl}}/assets/images/Fractions_post.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 It is clear that the majority of structural variants occur in intergenic regions - this makes sense - the rice genome is about 391 million basepairs long and genes are predicted to covers 111 million base pairs. It is also predicted from an evolutionary standpoint. If stuctural variants affect many base pairs at a time a structural variant in a gene could partialitty, or completely change a gene - even remove it all together. Deleting a gene could have severe negative impacts for the organisms health so there is throught to be strong evolutionary pressure for structural variants not to overlap genes.
 
@@ -67,6 +71,4 @@ To test this hypothesis we ran a simulation to create an enrichment score. The e
 The enrichement analysis shows SVs are more likely to occur in intergenic regions and depleted from introns and exons. Interstingly they're more less likely to occur in intronic regions than coding regions. Again this makes sense - coding regions are more "important" to creating the proteins that intronic regions, althought the intronic regions still play a role gene regulation and occurr adjacent to the coding regions.
 
 *check out enrichment analysis code 
-[here] <http://github.com/zlye/SV_feature_enrichment/>*
-check out enrichment analysis code [here] <http://github.com/zlye/SV_feature_enrichment/
-
+[here] (http://github.com/zlye/SV_feature_enrichment/)
