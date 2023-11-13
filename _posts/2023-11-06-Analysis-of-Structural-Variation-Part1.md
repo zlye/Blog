@@ -4,19 +4,9 @@ title: 'Analysis of Genetic Structural Variation Part 1'
 date: 2023-11-06
 ---
 
-![Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+![Utagawa Hiroshige, 1855, Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ![Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title")
-
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title")
-
-[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg)
 
 One of the main topics of my Ph.D. research was the discovery and analysis of structural variation in rice. Structural variation a unique and interesting type of genetic variation. If we use a book as a metaphor for the genome, that is, the complete genetic code of an individual, individuals might vary by a letter change, or an insertion of a letter or two. Structural variants are much larger mutations, they might include a deletion or duplication of a pharagraph, or a rearrangement of many pages. Given that they affect more sequence structural variants can be extremely bad for an individual and are rare in the population in humans structural variants are associated with many severe and complex diseases.
 
@@ -33,19 +23,19 @@ These are two key questions I answered through my research:
 
 Part I. How are structural distributed across the genome?
 
-![Geographic origin of study samples] ({{ site.baseurl }}/assets/images/map.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+![Geographic origin of study samples]({{ site.baseurl }}/assets/images/map.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 I discovered structural variants in a population of rice landraces. Landraces are traditional varieties of rice, and have a high level of genetic diversity. My samples came from all around the world, their genomes were sequenced by several of my colleagues. All together I started with 4 TB of raw genome sequence data! I developed a customized bioinformatics pipeline to discover structural variants using a high performance computing cluster.  
 
 *You can checkout at the pipeline on
-[git] (http://github.com/zlye/RVE/)
+[git](http://github.com/zlye/RVE/)
 - it took over a year to test and develop!
 
 Using the pipeline I discovered over 50,000 structural variants within a population of 214 rice landraces. The pipeline is complex - but I learned a lot from these 50,000 structural variants!
 
 Let’s skip to the interesting parts - the results and what they show about rice genomics!
 
-![Distibution of Structural variant sizes]({{site.baseurl}}/assets/images/Size_dist.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Distibution of Structural variant sizes]({{site.baseurl}}/assets/images/Size_distPost.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Most of the variants discovered are deletions, and the majority of structural variants are small.
 
@@ -71,4 +61,4 @@ To test this hypothesis we ran a simulation to create an enrichment score. The e
 The enrichement analysis shows SVs are more likely to occur in intergenic regions and depleted from introns and exons. Interstingly they're more less likely to occur in intronic regions than coding regions. Again this makes sense - coding regions are more "important" to creating the proteins that intronic regions, althought the intronic regions still play a role gene regulation and occurr adjacent to the coding regions.
 
 *check out enrichment analysis code 
-[here] (http://github.com/zlye/SV_feature_enrichment/)
+[here](http://github.com/zlye/SV_feature_enrichment/)
