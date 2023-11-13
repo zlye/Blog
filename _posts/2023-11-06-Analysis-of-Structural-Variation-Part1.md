@@ -4,9 +4,19 @@ title: 'Analysis of Genetic Structural Variation Part 1'
 date: 2023-11-06
 ---
 
-![2Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+![Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![2Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+![Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
+
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg "an image title")
+
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.png "an image title")
+
+[Utagawa Hiroshige 1855 Japan, National Museum of Asian art]({{ site.baseurl }}/assets/images/hiroHI_small.jpg)
 
 One of the main topics of my Ph.D. research was the discovery and analysis of structural variation in rice. Structural variation a unique and interesting type of genetic variation. If we use a book as a metaphor for the genome, that is, the complete genetic code of an individual, individuals might vary by a letter change, or an insertion of a letter or two. Structural variants are much larger mutations, they might include a deletion or duplication of a pharagraph, or a rearrangement of many pages. Given that they affect more sequence structural variants can be extremely bad for an individual and are rare in the population in humans structural variants are associated with many severe and complex diseases.
 
