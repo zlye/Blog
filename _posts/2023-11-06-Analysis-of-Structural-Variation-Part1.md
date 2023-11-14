@@ -23,8 +23,6 @@ In my research I wanted to gain understanding greater than anectodal examples, I
 
 Part I. How are structural distributed across the genome?
 
-![Geographic origin of study samples]({{ site.baseurl }}/assets/images/mapPost.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-
 ![Geographic origin of study samples]({{ site.baseurl }}/assets/images/map_screenArtboard 1@1.5x.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 I discovered structural variants in a population of rice landraces. Landraces are traditional varieties of rice, and have a high level of genetic diversity. My samples came from all around the world, their genomes were sequenced by several of my colleagues. All together I started with 4 TB of raw genome sequence data! I developed a customized bioinformatics pipeline to discover structural variants using a high performance computing cluster.  
