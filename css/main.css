@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img + em {
+    font-size: 1.0em;
+    line-height: 1.4em;
+    color: #999;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
