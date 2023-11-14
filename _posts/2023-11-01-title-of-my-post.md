@@ -15,28 +15,20 @@ Test first post - powered by [Jekyll](http://jekyllrb.com)  Markdown can be used
 
 ## RMD
 ![Geographic origin of study samples]({{ site.baseurl }}/assets/images/map_screenArtboard 1@1.5x.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-|:--:|
-| *my caption*|
+*my caption*
 
-## RMD2
+## RMD center
+<center>
+
 ![Geographic origin of study samples]({{ site.baseurl }}/assets/images/map_screenArtboard 1@1.5x.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-| *my caption* |
+*my caption*
 
+</center>
 
-## RMD3
+## RMD
 ![Geographic origin of study samples]({{ site.baseurl }}/assets/images/map_screenArtboard 1@1.5x.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-|*my caption*|
+<center>*my caption*</center>
 
-## RMD4
-![Geographic origin of study samples]({{ site.baseurl }}/assets/images/map_screenArtboard 1@1.5x.png "an image title"){:style="display:block; margin-left:auto; margin-right:auto"}
-
-|*my caption*|
-
-## HTML
-<figure>
-  <img src="{{site.url}}/assets/images/map_screenArtboard 1@1.5x.png" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
-</figure>
 
 ## HTMP + rules
 <p>
