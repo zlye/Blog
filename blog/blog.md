@@ -1,4 +1,4 @@
 ---
-layout: Blog
+layout: blog
 permalink: /Blog/
 ---
