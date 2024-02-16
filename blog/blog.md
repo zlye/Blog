@@ -1,1 +1,4 @@
-
+---
+layout: Blog
+permalink: /Blog/
+---
