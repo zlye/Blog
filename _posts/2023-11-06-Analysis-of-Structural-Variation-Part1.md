@@ -15,11 +15,11 @@ Structural variants take many forms and are challenging to understand compared t
 
 Many structural variants have been discovered that are responsible for important traits in domesticated plants and animals. For example, gene duplications cause differences in coat color in sheep, cattle, and pigs. In rice, a duplication increases seed size.
 
-*You can read about many more examples, and learn about deeper in the [review I published](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(19)30015-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138519300159%3Fshowall%3Dtrue#secsect0040)*
+*You can read about many more examples in the [review I published](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(19)30015-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138519300159%3Fshowall%3Dtrue#secsect0040)*
 
 In my research, I wanted to gain an understanding greater than anecdotal examples. I decided to study structural variation as a broad phenomenon using rice as a study species.
 
-###These are two key questions I answered through my research:###
+These are two key questions I answered through my research
 *1. Where are structural variants in the genome?*  
 *2. How do structural variants affect gene expression?*
 
